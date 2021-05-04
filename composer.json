@@ -1,0 +1,13 @@
+{
+    "name": "Dramacydal/RPGMVParser",
+    "authors": [
+        {
+            "name": "Dramacydal",
+            "email": "PulLumBerMal@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"rp\\": ""}
+    },
+    "require": {}
+}
